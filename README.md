@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently working on Angular<br>I’m currently learning Angular, TypeScript and React<br>Ask me about Angular, TypeScript and React<br>Fun fact: I ❤️ 🐱s and history books<br>You can get in touch with me by email at omerincirkus@gmail.com ,, and https://www.linkedin.com/in/omerincirkuş/.
+I'm currently working on Angular<br>I’m currently learning Angular, TypeScript and React<br>Ask me about Angular, TypeScript and React<br>Fun fact: I ❤️ 🐱s and history books<br>You can get in touch with me by email at omerincirkus@gmail.com , and [Linkedin] https://www.linkedin.com/in/omerincirkuş/.
 
 
 ## 🌐 Socials:
