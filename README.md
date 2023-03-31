@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently working on Angular<br>I’m currently learning Angular, TypeScript and React<br>Ask me about Angular, TypeScript and React<br>Fun fact: I ❤️ 🐱s and history books<br>You can get in touch with me by email at omerincirkus@gmail.com , and [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerincirkuş)
+I'm currently working on Angular<br>I’m currently learning Angular, TypeScript and React<br>Ask me about Angular, TypeScript and React<br>Fun fact: I ❤️ 🐱s and history books<br>You can get in touch with me by email at omerincirkus@gmail.com , and [![LinkedIn]](https://linkedin.com/in/omerincirkuş)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerincirkuş) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/omerincirkus) 
